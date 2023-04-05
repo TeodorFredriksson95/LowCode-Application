@@ -1,0 +1,28 @@
+.backButton, .backToMain{
+    float:right;
+    margin-left: 1rem;
+}
+
+.tableDataButton{
+    justify-content: center;
+    width: 20rem;
+}
+
+td{
+    text-align: center;
+}
+
+<<<<<<< HEAD
+.btn-danger {
+    margin-left: 0.5rem;
+}
+
+=======
+body{
+    padding: 30px;
+}
+
+.btn-danger{
+    margin-left: 1rem;;
+}
+>>>>>>> 1f17984ab64889b9c7b21c9941b93344cac9119c
